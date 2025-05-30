@@ -1,0 +1,3 @@
+telethon>=1.26.1
+urwid>=2.1.2
+pillow>=9.3.0
